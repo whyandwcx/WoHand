@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_searching"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        android:title="@string/searching"
+        />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_menu_camera"
+        app:showAsAction="never"
+        android:title="@string/add_friends">
+    </item>
+    <item
+        android:id="@+id/action_addchat"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="@string/group_chat"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_addfriends"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="@string/scan_code"
+        app:showAsAction="never" />
+
+</menu>

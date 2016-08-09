@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">WoHand</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="personal_info">个人资料</string>
+    <string name="personal_updates">我的动态</string>
+    <string name="personal_collection">我的收藏</string>
+    <string name="personal_records">我的记录</string>
+    <string name="help_tips">帮助</string>
+    <string name="personal_statements">设置</string>
+    <string name="add_friends">加好友</string>
+    <string name="group_chat">多人聊天</string>
+    <string name="scan_code">扫一扫</string>
+    <string name="select_home">首页</string>
+    <string name="select_contacts">通讯录</string>
+    <string name="select_sns">圈子</string>
+    <string name="searching">搜索</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
